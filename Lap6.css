@@ -1,0 +1,33 @@
+   <style>
+	   body {
+            margin: 0;
+            background-color: #fff4ff;
+        }
+	header {
+            padding: 3px;
+            text-align: center;
+            background-color: #8b72be;
+            color: white;
+            border-style: dashed;
+    }
+    header p {
+            font-size: 40px;
+            margin-left: 50px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+			text-align: center;
+			float: auto;
+    }
+	section {
+			margin-top: 20px;
+			margin-bottom:20px;
+			text-align: center;
+			float:auto;
+			color:red;
+		}
+	section p {
+			background-color:none  ;  
+			color:red;
+		}
+   }
+    </style>
